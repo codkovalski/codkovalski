@@ -19,6 +19,5 @@
 
 <h3 align=" left ">Entre em contato comigo:</h3>
 
-[ ![limber.kovalski@gmail.com] ( https://skillicons.dev/icons?i=gmail )] ( mailto:limber.kovalski@gmail.com)
-
+limber.kovalski@gmail.com
 
