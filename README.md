@@ -1,9 +1,7 @@
 < div  align =" center" >
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Bebendo uma Xícara de Café" height="200">
 </div>​​
-< div  align =" center" >
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32¢er=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Título" />
-</div>​​
+​​
 
 < h1  align = " center " >Olá 👋, Eu sou Leandro</ h1 >
 < h3  align = " center " >dev junior residente em Pato branco pr/brasil.</ h3 >
