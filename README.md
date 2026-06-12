@@ -7,7 +7,9 @@
 <h3 align=" center ">dev junior residente em Pato branco pr/brasil.</h3>
 <p align=" center ">Estudante do Ensino Médio em formação para Desenvolvedor Full Stack. Estou estudando HTML, CSS, JavaScript, TypeScript, Angular, busco aplicar em projetos pessoais. Tenho interesse em desenvolvimento web,  foco em aprendizado contínuo e crescimento profissional. </p>
 
-<p align=" left "><img src=" https://komarev.com/ghpvc/?username=codkovalski&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt=" codkovalski "/> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codkovalski&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+</p>
 
 
 - 🔭 Atualmente, eu trabalho na limber (https://limbersoftware.com.br/) .
