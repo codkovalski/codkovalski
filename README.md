@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32¢er=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Título" />
 </div>​​
 
-< h1  align = " center " >Olá 👋, Eu sou {SEU-NOME-AQUI}</ h1 >
-< h3  align = " center " >{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</ h3 >
-< p  align = " center " >{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</ p >
+< h1  align = " center " >Olá 👋, Eu sou Leandro</ h1 >
+< h3  align = " center " >dev junior residente em Pato branco pr/brasil.</ h3 >
+< p  align = " center " >Estudante do Ensino Médio em formação para Desenvolvedor Full Stack. Estou estudando HTML, CSS, JavaScript, TypeScript, Angular, Git e GitHub, procuro aplicar em projetos pessoais. Tenho interesse em desenvolvimento web,  foco em aprendizado contínuo e crescimento profissional. </ p >
 
-< p  align = " left " >< img  src = " https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat "  alt = " manualdofront " / > </p>
+< p  align = " left " >< img  src = " https://komarev.com/ghpvc/?username=codkovalski&label=Visualizações%20no%20perfil&color=0e75b6&style=flat "  alt = " codkovalski " / > </p>
 
-> _ 🚨☝️ Lembre-se de trocar as instruções por "manualdofront" no link acima pelo seu nome de usuário do Github e remova esse comentário. _
-- 🔭 Atualmente, eu trabalho em [ Nome-da-empresa ] ( https://site-da-empresa.com/ ) .
+
+- 🔭 Atualmente, eu trabalho na limber (https://limbersoftware.com.br/) .
 
 - 🌱Meus estudos atuais focam em ** Front End (Angular, JavaScript e TypeScript) ** e ** Design de Aplicações (Arquitetura Hexagonal) ** .
 
