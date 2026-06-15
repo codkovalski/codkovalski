@@ -14,7 +14,7 @@
 
 - 🔭 Atualmente, eu trabalho na limber (https://limbersoftware.com.br/) .
 
-- 🌱Meus estudos atuais focam em ** Front End (Angular, JavaScript e TypeScript) ** e ** Design de Aplicações (Arquitetura Hexagonal) ** .
+- 🌱Meus estudos atuais focam em ** Front End (Angular, JavaScript e TypeScript) ** e ** .
 
 - 📫 Este é meu e-mail para contato : **limber.kovalski@gmail.com**
 
