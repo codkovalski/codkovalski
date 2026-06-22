@@ -1,25 +1,53 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Bebendo uma Xícara de Café" height="200">
-</div>​​
-​​
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" height="200">
+</div>
 
-<h1 align=" center ">Olá 👋, Eu sou Leandro</h1>
-<h3 align=" center ">dev junior residente em Pato branco pr/brasil.</h3>
-<p align=" center ">Estudante do Ensino Médio em formação para Desenvolvedor Full Stack. Estou estudando HTML, CSS, JavaScript, TypeScript, Angular, busco aplicar em projetos pessoais. Tenho interesse em desenvolvimento web,  foco em aprendizado contínuo e crescimento profissional. </p>
+<h1 align="center">Olá 👋, eu sou Leandro</h1>
+
+<h3 align="center">Desenvolvedor em formação — Pato Branco, PR 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codkovalski&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+Estudante do ensino médio focado em desenvolvimento Full Stack. Atualmente trabalhando com HTML, CSS, JavaScript, TypeScript e Angular em projetos pessoais e profissionais.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codkovalski&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 Atualmente, eu trabalho na limber (https://limbersoftware.com.br/) .
+---
 
-- 🌱Meus estudos atuais focam em ** Front End (Angular, JavaScript e TypeScript) ** e ** .
+## Sobre mim
 
-- 📫 Este é meu e-mail para contato : **limber.kovalski@gmail.com**
+- Estudante do ensino médio
+- Atuo na empresa Limber Software
+- Foco em desenvolvimento Front-End e evolução para Full Stack
+- Interesse em arquitetura de aplicações e automação com IA
+- Aprendizado contínuo com projetos reais
 
+---
 
-<h3 align=" left ">Entre em contato comigo:</h3>
+## Tecnologias
 
-limber.kovalski@gmail.com
+**Front-end**
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
 
+**Outros**
+- Git / GitHub
+- Consumo de APIs REST
+
+---
+
+## Experiência
+
+- Limber Software — desenvolvimento e aprendizado prático em ambiente real
+
+---
+
+## Contato
+
+- Email: limber.kovalski@gmail.com
+- GitHub: https://github.com/codkovalski
