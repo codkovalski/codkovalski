@@ -49,5 +49,5 @@ Estudante do ensino médio focado em desenvolvimento Full Stack. Atualmente trab
 
 ## Contato
 
-- Email: limber.kovalski@gmail.com
+- Email: lrkr1807@gmail.com
 - GitHub: https://github.com/codkovalski
